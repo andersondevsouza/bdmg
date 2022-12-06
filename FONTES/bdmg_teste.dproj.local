@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2022/12/06 11:42:56.040,=C:\Users\ander\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/12/06 11:43:28.639,E:\bdmg\FONTES\bdmg_teste.dproj=C:\Users\ander\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/12/06 11:43:33.268,=E:\bdmg\FONTES\Unit1.pas</Transaction>
+    <Transaction>2022/12/06 11:50:10.164,E:\bdmg\FONTES\UntConexaoBD.pas=E:\bdmg\FONTES\Unit1.pas</Transaction>
+    <Transaction>2022/12/06 13:35:49.270,=E:\bdmg\FONTES\Unit1.pas</Transaction>
+    <Transaction>2022/12/06 13:42:09.203,E:\bdmg\FONTES\UntControleConexao.pas=E:\bdmg\FONTES\Unit1.pas</Transaction>
+    <Transaction>2022/12/06 14:00:40.517,=E:\bdmg\FONTES\Unit1.pas</Transaction>
+    <Transaction>2022/12/06 14:04:34.912,E:\bdmg\FONTES\UntControleCliente.pas=E:\bdmg\FONTES\Unit1.pas</Transaction>
+    <Transaction>2022/12/06 15:16:57.112,=E:\bdmg\FONTES\Unit1.pas</Transaction>
+    <Transaction>2022/12/06 15:17:19.891,E:\bdmg\FONTES\UntCadCliente.dfm=E:\bdmg\FONTES\Unit1.dfm</Transaction>
+    <Transaction>2022/12/06 15:17:19.891,E:\bdmg\FONTES\UntCadCliente.pas=E:\bdmg\FONTES\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
