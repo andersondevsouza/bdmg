@@ -1,16 +1,24 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
-  <Transactions>
-    <Transaction>2022/12/06 11:42:56.040,=C:\Users\ander\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2022/12/06 11:43:28.639,E:\bdmg\FONTES\bdmg_teste.dproj=C:\Users\ander\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
-    <Transaction>2022/12/06 11:43:33.268,=E:\bdmg\FONTES\Unit1.pas</Transaction>
-    <Transaction>2022/12/06 11:50:10.164,E:\bdmg\FONTES\UntConexaoBD.pas=E:\bdmg\FONTES\Unit1.pas</Transaction>
-    <Transaction>2022/12/06 13:35:49.270,=E:\bdmg\FONTES\Unit1.pas</Transaction>
-    <Transaction>2022/12/06 13:42:09.203,E:\bdmg\FONTES\UntControleConexao.pas=E:\bdmg\FONTES\Unit1.pas</Transaction>
-    <Transaction>2022/12/06 14:00:40.517,=E:\bdmg\FONTES\Unit1.pas</Transaction>
-    <Transaction>2022/12/06 14:04:34.912,E:\bdmg\FONTES\UntControleCliente.pas=E:\bdmg\FONTES\Unit1.pas</Transaction>
-    <Transaction>2022/12/06 15:16:57.112,=E:\bdmg\FONTES\Unit1.pas</Transaction>
-    <Transaction>2022/12/06 15:17:19.891,E:\bdmg\FONTES\UntCadCliente.dfm=E:\bdmg\FONTES\Unit1.dfm</Transaction>
-    <Transaction>2022/12/06 15:17:19.891,E:\bdmg\FONTES\UntCadCliente.pas=E:\bdmg\FONTES\Unit1.pas</Transaction>
+	<Transactions>
+    <Transaction>2022/12/06 11:42:56.000.040,=C:\Users\ander\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/12/06 11:43:28.000.639,C:\Users\ander\Documents\Embarcadero\Studio\Projects\Project1.dproj=E:\bdmg\FONTES\bdmg_teste.dproj</Transaction>
+    <Transaction>2022/12/06 11:43:33.000.268,=E:\bdmg\FONTES\Unit1.pas</Transaction>
+    <Transaction>2022/12/06 11:50:10.000.164,E:\bdmg\FONTES\Unit1.pas=E:\bdmg\FONTES\UntConexaoBD.pas</Transaction>
+    <Transaction>2022/12/06 13:35:49.000.270,=E:\bdmg\FONTES\Unit1.pas</Transaction>
+    <Transaction>2022/12/06 13:42:09.000.203,E:\bdmg\FONTES\Unit1.pas=E:\bdmg\FONTES\UntControleConexao.pas</Transaction>
+    <Transaction>2022/12/06 14:00:40.000.517,=E:\bdmg\FONTES\Unit1.pas</Transaction>
+    <Transaction>2022/12/06 14:04:34.000.912,E:\bdmg\FONTES\Unit1.pas=E:\bdmg\FONTES\UntControleCliente.pas</Transaction>
+    <Transaction>2022/12/06 15:16:57.000.112,=E:\bdmg\FONTES\Unit1.pas</Transaction>
+    <Transaction>2022/12/06 15:17:19.000.891,E:\bdmg\FONTES\Unit1.dfm=E:\bdmg\FONTES\UntCadCliente.dfm</Transaction>
+    <Transaction>2022/12/06 15:17:19.000.891,E:\bdmg\FONTES\Unit1.pas=E:\bdmg\FONTES\UntCadCliente.pas</Transaction>
+    <Transaction>2022/12/06 16:45:09.944,=E:\bdmg\FONTES\Unit1.pas</Transaction>
+    <Transaction>2022/12/06 16:46:04.878,E:\bdmg\FONTES\UntPadraoCadastro.pas=E:\bdmg\FONTES\Unit1.pas</Transaction>
+    <Transaction>2022/12/06 16:46:04.878,E:\bdmg\FONTES\UntPadraoCadastro.dfm=E:\bdmg\FONTES\Unit1.dfm</Transaction>
+    <Transaction>2022/12/06 16:58:32.284,=E:\bdmg\FONTES\Unit1.pas</Transaction>
+    <Transaction>2022/12/06 16:59:00.080,E:\bdmg\FONTES\UntCadastroCliente.dfm=E:\bdmg\FONTES\Unit1.dfm</Transaction>
+    <Transaction>2022/12/06 16:59:00.080,E:\bdmg\FONTES\UntCadastroCliente.pas=E:\bdmg\FONTES\Unit1.pas</Transaction>
+    <Transaction>2022/12/06 17:02:50.270,E:\bdmg\FONTES\UntCadCliente.pas=</Transaction>
+    <Transaction>2022/12/07 15:18:52.760,=E:\bdmg\FONTES\Unit1.pas</Transaction>
   </Transactions>
 </BorlandProject>

@@ -5,13 +5,14 @@ uses
   UntConexaoBD in 'UntConexaoBD.pas',
   UntControleConexao in 'UntControleConexao.pas',
   UntControleCliente in 'UntControleCliente.pas',
-  UntCadCliente in 'UntCadCliente.pas' {FrmCadCliente};
+  UntPadraoCadastro in 'UntPadraoCadastro.pas' {FrmPadraoCadastro},
+  UntCadastroCliente in 'UntCadastroCliente.pas' {FrmCadastroCliente};
 
 {$R *.res}
 
 begin
   Application.Initialize;
   Application.MainFormOnTaskbar := True;
-  Application.CreateForm(TFrmCadCliente, FrmCadCliente);
+  Application.CreateForm(TFrmCadastroCliente, FrmCadastroCliente);
   Application.Run;
 end.
